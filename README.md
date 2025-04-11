@@ -132,9 +132,9 @@ F = \alpha F_{spatial} + (1 - \alpha) F_{temporal}
 ```
 
 Where:
-- \( F_{spatial} \) is the output of the spatial stream  
-- \( F_{temporal} \) is the output of the temporal stream  
-- \( \alpha \in [0, 1] \) is the weighting factor
+- \( $F_{spatial}$ \) is the output of the spatial stream  
+- \( $F_{temporal}$ \) is the output of the temporal stream  
+- \( $\alpha \in [0, 1]$ \) is the weighting factor
 
 ---
 
