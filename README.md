@@ -1,4 +1,4 @@
-# Trends in Shoplifting Detection 
+# Modern Approaches to Shoplifting Detection: Trends, Limitations, and Future Directions 
 
 <br>
 <br>
