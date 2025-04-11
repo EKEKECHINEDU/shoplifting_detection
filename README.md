@@ -61,8 +61,8 @@ y^{(l)} = f\left(\sum_{i} W_i^{(l)} * x_i^{(l-1)} + b^{(l)}\right)
 
 Where:
 - \( $y^{(l)}$ \) is the output of the 3D convolutional layer  
-- \( W_i^{(l)} \) are 3D filters (with depth, height, and width: \( d_t, d_h, d_w \))  
-- \( x_i^{(l-1)} \) is the input video tensor  
+- \( $W_i^{(l)}$ \) are 3D filters (with depth, height, and width: \( d_t, d_h, d_w \))  
+- \( $x_i^{(l-1)}$ \) is the input video tensor  
 - \( f \) is typically a ReLU activation
 
 ---
@@ -97,9 +97,9 @@ h_t = \sigma(W_f x_t + U_f h_{t-1} + b_f)
 ```
 
 Where:
-- \( h_t \) is the hidden state at time \( t \)  
-- \( x_t \) is the CNN-extracted feature input  
-- \( \sigma \) is an activation function (often sigmoid)
+- \( $h_t$ \) is the hidden state at time \( t \)  
+- \( $x_t$ \) is the CNN-extracted feature input  
+- \( $\sigma$ \) is an activation function (often sigmoid)
 
 ---
 
@@ -116,7 +116,7 @@ Where:
 - \( Q \) = Queries  
 - \( K \) = Keys  
 - \( V \) = Values  
-- \( d_k \) = dimension of the key vectors
+- \( $d_k$ \) = dimension of the key vectors
 
 ✅ *ViTs can model complex spatiotemporal dependencies efficiently.*
 
