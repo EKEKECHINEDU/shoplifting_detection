@@ -172,10 +172,10 @@ Modern hybrid architectures combine CNNs and RNNs (e.g., GRU, BiLSTM) to extract
 <a id = 'solution'></a>
 ## Solutions
 
-**Data Augmentation and New Datasets**: Collecting and publicly releasing real-world, multi-angle surveillance data can improve model generalizability.
-**Explainable AI (XAI)**: Incorporating explainability tools to identify which features drive classification decisions can mitigate bias.
-**Optimized Hybrid Models**: Fine-tuning hyperparameters (e.g., batch size, learning rate) in hybrid CNN–RNN architectures improves real-time performance and accuracy.
-**Anomaly Detection Frameworks**: Using unsupervised anomaly detection techniques to learn normal shopping behaviour and flag deviations.
+- **Data Augmentation and New Datasets**: Collecting and publicly releasing real-world, multi-angle surveillance data can improve model generalizability.
+- **Explainable AI (XAI)**: Incorporating explainability tools to identify which features drive classification decisions can mitigate bias.
+- **Optimized Hybrid Models**: Fine-tuning hyperparameters (e.g., batch size, learning rate) in hybrid CNN–RNN architectures improves real-time performance and accuracy.
+- **Anomaly Detection Frameworks**: Using unsupervised anomaly detection techniques to learn normal shopping behaviour and flag deviations.
 
 <a id ='discussion'></a>
 ## Discussion
