@@ -1,4 +1,4 @@
-# Shoplifting Detection and Video Surveillance  
+# Trends in Shoplifting Detection 
 
 <br>
 <br>
