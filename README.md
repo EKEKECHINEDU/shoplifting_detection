@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="GitHubtopicpicimages/trends-in-shoplifting.jpg" 
+  <img src="https://github.com/EKEKECHINEDU/shoplifting_detection/blob/main/images/trends-in-shoplifting.jpg" 
        width="350">
 </p>
 <br>
