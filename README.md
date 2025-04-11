@@ -60,7 +60,7 @@ y^{(l)} = f\left(\sum_{i} W_i^{(l)} * x_i^{(l-1)} + b^{(l)}\right)
 ```
 
 Where:
-- \( y^{(l)} \) is the output of the 3D convolutional layer  
+- \( $y^{(l)}$ \) is the output of the 3D convolutional layer  
 - \( W_i^{(l)} \) are 3D filters (with depth, height, and width: \( d_t, d_h, d_w \))  
 - \( x_i^{(l-1)} \) is the input video tensor  
 - \( f \) is typically a ReLU activation
